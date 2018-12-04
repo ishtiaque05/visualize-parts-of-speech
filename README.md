@@ -11,6 +11,6 @@ To run this repo:
 5. view the in web browser
 
 Demo:
-![alt text](../pos.png "Parts Of speech")
+![Parts Of Speech Visualization](https://github.com/ishtiaque05/visualize-parts-of-speech/blob/master/pos.png)
 
 
